@@ -1,0 +1,8 @@
+2024-10-31 20:30:18,803 - root - ERROR - Main rendering error: module 'streamlit' has no attribute '_session_state'
+2024-10-31 20:30:25,843 - root - ERROR - Main rendering error: module 'streamlit' has no attribute '_session_state'
+2024-10-31 20:30:32,097 - root - ERROR - Main rendering error: module 'streamlit' has no attribute '_session_state'
+2024-10-31 20:32:13,455 - root - ERROR - Main rendering error: module 'streamlit' has no attribute '_session_state'
+2024-10-31 20:37:53,023 - root - INFO - SMS to +27659535646: Your verification code is 459691
+2024-10-31 20:37:53,024 - __main__ - INFO - Verification initiated for user verify_7e9e6fab-f8f1-436e-b26d-e40ce8aaf8e7 via sms
+2024-10-31 20:39:25,628 - root - INFO - Email to pedromuttenda@gmail.com: Your verification code is 853920
+2024-10-31 20:39:25,687 - __main__ - INFO - Verification initiated for user verify_7e9e6fab-f8f1-436e-b26d-e40ce8aaf8e7 via email

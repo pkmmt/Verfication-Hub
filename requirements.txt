@@ -1,0 +1,13 @@
+# Installation Requirements:
+# Run with: streamlit run filename.py
+streamlit
+uuid
+enum
+pydantic
+requests
+dataclasses
+email_validator
+logging
+email_validator
+random
+string
