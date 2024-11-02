@@ -58,7 +58,7 @@ class VerificationError(Exception):
 @dataclass
 class Settings:
     """Application settings with type hints and documentation."""
-    TNID_API_URL: str = "https://api.staging.v2.tnid.com/auth/create_user_otp"
+    TNID_API_URL: str = "https://api.staging.v2.tnid.com/auth/token"
     COMPANY_ID: str = "477f21dd-77c9-44e9-929e-47c2e9a0609e"
     DEFAULT_RATE_LIMITS: Dict[str, int] = field(default_factory=lambda: {
         "requestsPerMinute": 60,
